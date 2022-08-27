@@ -1,6 +1,6 @@
 # Food-site-P
 
-## Продуктовый сайт для похудения
+## Сайт для похудения
 
 ### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-54/site/food-site-P/index.html
 
