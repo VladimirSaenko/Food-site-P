@@ -2,12 +2,12 @@
 "use strict";
 
 // const obj = {
-//     name: 'Steve',
+//     name: 'Notch',
 //     id: '212000112'
 // }
 
 // const obj = {
-//     name: 'Alex',
+//     name: 'Bogdan',
 //     id: '2'
 // }
 
@@ -25,7 +25,7 @@ User.prototype.exit = function() {
 }
 
 const ivan = new User('Ivan', '28');
-const alex = new User('Alex', '31');
+const alex = new User('Steve', '31');
 
 ivan.hello();
 ivan.exit();
