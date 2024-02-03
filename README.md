@@ -1,7 +1,5 @@
 # Food-site-P
 
-## Сайт для похудения
-
 ### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-46/site/food-site-P/index.html
 
 ![food-12](https://user-images.githubusercontent.com/56477695/174286872-7aa5a91c-b785-4828-89fa-db5994c1090b.jpg)
